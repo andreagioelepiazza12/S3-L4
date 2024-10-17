@@ -8,7 +8,8 @@ body {
 .griglia {
     margin-left: 30%;
     margin-right: 30%;
-    margin-bottom: 200px;
+    margin-bottom: 50px;
+    margin-top: 50px;
     display: grid;
     grid-template-columns: repeat(10, 50px);
     grid-gap: 5px;
@@ -25,7 +26,7 @@ body {
     border-radius: 40%;
 }
 .estr {
-    background-color: yellow;
+    background-color: rgb(80, 198, 214);
 }
 
 #btnEst {
@@ -35,4 +36,6 @@ body {
     background-color: pink;
     border-radius: 5%;
 }
+
+
   
